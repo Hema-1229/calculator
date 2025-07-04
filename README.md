@@ -4,7 +4,7 @@ This is a simple, interactive web-based calculator that evaluates mathematical e
 
 > Technologies Used
 * HTML5 – For structuring the calculator layout.
-* CSS3 – For styling and responsive design.
+* CSS3 – For styling and responsive design. 
 * JavaScript – For calculator logic and interactivity.
 
 > Features
